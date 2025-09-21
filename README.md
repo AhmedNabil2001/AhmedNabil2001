@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🚀 Welcome to My GitHub
 
-<!--
-**AhmedNabil2001/AhmedNabil2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=YourUserName&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/YourUserName?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/YourUserName?style=social)
 
-Here are some ideas to get you started:
+## 👋 Hi there!  
+أنا [احمد نبيل] ✌️  
+- 💻 مطور مهتم بـ **Dart & Flutter / Backend / Security ...**  
+- 📚 بحب أتعلم تقنيات جديدة وأعمل بروجيكتات جامدة  
+- 🎯 هدفي: أبني حاجات تفيد الناس وأسيب بصمة  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- 🌐 HTML | CSS | JavaScript  
+- ⚡ Python | **Dart** | Flutter  
+- 🗄️ MySQL | SQLite  
+- 🔐 Cybersecurity Basics  
+
+---
+
+## 📈 GitHub Stats
+![AhmedNabil2001](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)
+
+---
+
+## 📬 تواصل معايا
+📧 Email: ahmednabil100900@gmail.com  
+📱 Mobile: +201557291229  
+
+---
+
+⭐️ منشنني لو عجبك شغلي، أو اعمل Fork وجرب تطور على البروجيكتات ✨
