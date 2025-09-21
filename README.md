@@ -1,35 +1,45 @@
-# 🚀 Welcome to My GitHub
-
-![Profile Views](https://komarev.com/ghpvc/?username=YourUserName&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/YourUserName?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/YourUserName?style=social)
-
-## 👋 Hi there!  
-أنا [احمد نبيل] ✌️  
-- 💻 مطور مهتم بـ **Dart & Flutter / Backend / Security ...**  
-- 📚 بحب أتعلم تقنيات جديدة وأعمل بروجيكتات جامدة  
-- 🎯 هدفي: أبني حاجات تفيد الناس وأسيب بصمة  
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+[AhmedNabil];Dart+%7C+Flutter+Developer;Backend+%7C+Security+Learner;Always+Learning+New+Things+!">
+</p>
 
 ---
 
-## 🛠️ Skills
-- 🌐 HTML | CSS | JavaScript  
-- ⚡ Python | **Dart** | Flutter  
-- 🗄️ MySQL | SQLite  
-- 🔐 Cybersecurity Basics  
+# 🚀 About Me
+- 👨‍💻 مطور مهتم بـ **Dart & Flutter** + Backend  
+- 🔐 بحب مجال **Cybersecurity** وبجرب حاجات جديدة  
+- 🎯 هدفي: أتعلم وأعمل بروجيكتات تفيدني وتفيد غيري  
 
 ---
 
-## 📈 GitHub Stats
-![AhmedNabil2001](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)
+# 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python,html,css,js,mysql,linux,git,github" />
+</p>
 
 ---
 
-## 📬 تواصل معايا
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# ⚡ Fun Stuff
+- ✨ بحب أكتب كود نظيف ومنظم  
+- 🎮 بجرب ألعاب أونلاين وقت الفراغ  
+- ☕ القهوة = وقود البرمجة  
+
+---
+
+# 📬 Contact
 📧 Email: ahmednabil100900@gmail.com  
 📱 Mobile: +201557291229  
 
 ---
 
-⭐️ منشنني لو عجبك شغلي، أو اعمل Fork وجرب تطور على البروجيكتات ✨
+<p align="center">
+  ⭐️ لو عجبك شغلي اعمل Follow & Star
+</p>
